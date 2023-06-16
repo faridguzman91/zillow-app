@@ -8,11 +8,11 @@ class IndexController extends Controller
 {
     //index
     public function index() {
-        return "index";
+        return inertia('Index/Index');
     }
 
     //show
     public function show() {
-        return "show";
+        return inertia('Index/Show');
     }
 }
