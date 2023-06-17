@@ -9,7 +9,10 @@ class IndexController extends Controller
     //index
     public function index() {
         return inertia(
-            'Index/index'
+            'Index/index',
+            [
+                'message' => 'hello from laravel'
+            ]
         );
     }
 
