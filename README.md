@@ -13,7 +13,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 uses MariaDB, Inertia, Ziggy for routing, Inertia Progress Indicator and Tailwind CSS
 
 #install
+<br>
 run 
+<br>
 <code> composer install </code>
 <br>
 <code> npm i </code>
