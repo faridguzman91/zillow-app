@@ -10,14 +10,12 @@
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # zillow-app
 
-uses Inertia, Ziggy for routing, Progress Indicator and Tailwind CSS
+uses MariaDB, Inertia, Ziggy for routing, Inertia Progress Indicator and Tailwind CSS
 
 #install
-
-
 run 
 <code> composer install </code>
 <br>
-<npm i>
+<code> npm i </code>
 <br>
-<docker-compose up>
+<code> docker-compose up </code>
