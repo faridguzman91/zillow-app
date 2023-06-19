@@ -8,4 +8,16 @@
 </p>
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# myparcel-app
+# zillow-app
+
+uses Inertia, Ziggy for routing, Progress Indicator and Tailwind CSS
+
+#install
+
+
+run 
+<code> composer install </code>
+<br>
+<npm i>
+<br>
+<docker-compose up>
